@@ -20,7 +20,7 @@ The dataset (`housing.csv`) is the California Housing Prices dataset, containing
 This dataset is commonly used for regression tasks to predict median house values based on census data.
 
 ## Project Structure
-- **Untitled.ipynb**: Jupyter notebook containing the code for data loading, inspection, and visualization.
+- **Housing Dataset Exploration.ipynb**: Jupyter notebook containing the code for data loading, inspection, and visualization.
 - **housing.csv**: The dataset file (not included in this repository; download from sources like Kaggle or scikit-learn datasets).
 
 ## Prerequisites
@@ -54,7 +54,7 @@ pip install pandas matplotlib
 2. Place the `housing.csv` dataset in the appropriate directory.
 3. Open the Jupyter notebook:
    ```bash
-   jupyter notebook Untitled.ipynb
+   jupyter notebook Housing Dataset Exploration.ipynb
    ```
 4. Run all cells to reproduce the EDA.
 
